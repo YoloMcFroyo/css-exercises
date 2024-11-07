@@ -1,0 +1,21 @@
+.odd {
+  background-color: lightcoral;
+  font: verdana, "deja-vu-sans", sans-serif;
+}
+
+#second {
+  color: rgb(0, 0, 255);
+  font-size: 36pt;
+}
+
+#fourth {
+  background-color: lightgreen;
+  font-size: 24pt;
+  font-weight: bold;
+
+}
+
+.cooler {
+  font-size: 24pt;
+}
+
